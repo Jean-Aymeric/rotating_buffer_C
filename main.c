@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "rotating_buffer.h"
-#include "buffer_writer.h"
-#include "buffer_reader.h"
+#include "rotatingbuffer/rotating_buffer.h"
+#include "rotatingbuffer/buffer_writer.h"
+#include "rotatingbuffer/buffer_reader.h"
 
 #define START_VALUE 'A'
 #define END_VALUE 'Z'
