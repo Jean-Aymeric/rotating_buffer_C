@@ -25,7 +25,7 @@ circulaire. Une petite image pour illustrer le fonctionnement :
 
 ## Rotating Buffer - Principe
 
-![rotattingbuffer.png](rotattingbuffer.png)
+![rotattingbuffer.png](image/rotattingbuffer.png)
 Le buffer circulaire est un tableau de taille fixe.
 
 Il est composé de deux indices :
@@ -41,7 +41,7 @@ Les classes correspondent à des structures de données.
 
 Le buffer actuel est d'une taille de 1 élément.
 
-![classdiagram .png](classdiagram.png)
+![classdiagram .png](image/classdiagram.png)
 
 ## Travail à réaliser
 
@@ -57,4 +57,4 @@ Vous allez devoir modifier la taille du buffer pour qu'il puisse contenir 10 él
    qu'elles prennent en compte ces deux nouveaux index.
 7. Normalement, magie !!! tout fonctionne.
 
-![2Gb.gif](2Gb.gif)
+![2Gb.gif](image/2Gb.gif)
